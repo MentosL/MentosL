@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, everyone 👋
 
-<!--
-**MentosL/MentosL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Self introduction
+- 🌱 Love open source and community
+- 🔭 I’m currently working on house
+- 🌱 I’m currently learning DDD
+- 👯 I’m looking for a company
+- 💬 Ask me about Cloud Native or java
+- 📫 How to reach me: v:L1367654518
 
-Here are some ideas to get you started:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MentosL&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MentosL&show_icons=true&theme=dark&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

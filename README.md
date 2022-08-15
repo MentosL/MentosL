@@ -8,6 +8,8 @@
 - 💬 Ask me about Cloud Native or java
 - 📫 How to reach me: v:L1367654518
 
+<img src="https://media.giphy.com/media/eJY3w5rTkc6usEoCdM/giphy.gif" height="100%" width="100%"/>
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MentosL&theme=dark&layout=compact)
 <br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MentosL&show_icons=true&theme=dark&count_private=true)
